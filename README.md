@@ -2,5 +2,3 @@
 
 - 🔭 Currently working on 313X Cyber Investigations
 - 🌱 Currently learning abbout quantum computing and it's impact on cryptography and privacy
-- 📫 How to reach me: linkedin :)
-- ⚡ Fun fact: I helped law enforcement put bad guys away with rust and twitter :)
